@@ -1,4 +1,11 @@
-## Hi there 👋
+## Software Engineer
+
+### Hackathon winnings:
+  #1 @GlitchHackathon BNB Track 
+  
+  #1 @GMVN Hackerspace GoPlus Track
+  
+  #Circle Prize @Move Hackathon by WebX
 
 <!--
 **JisongImSorry/jisongimsorry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
